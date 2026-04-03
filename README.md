@@ -1,4 +1,4 @@
-# 🔗 Event Registration System
+#  Event Registration System
 
 A full-stack web application built using React, Node.js, and MongoDB where users can view events and register for them.
 
