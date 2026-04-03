@@ -52,7 +52,7 @@ A full-stack web application built using React, Node.js, and MongoDB where users
 ### 1. Clone the repository
 
 ```bash id="r7a2f2"
-git clone https://github.com/your-username/event-registration-system.git
+git clone https://github.com/livithaa/event-registration-system.git
 cd event-registration-system
 ```
 
@@ -179,7 +179,7 @@ Additionally, the project includes bonus features like a simple admin panel to a
 
 ## Author
 
-Your Name
+Livitha A
 
 ---
 
