@@ -171,6 +171,10 @@ Additionally, the project includes bonus features like a simple admin panel to a
 
 ![Event Details](screenshots/event-details.png)
 
+### Event Registration
+
+![Event Registration](screenshots/event-register.png)
+
 ### Registration Success
 
 ![Success](screenshots/success.png)
